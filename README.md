@@ -1,7 +1,9 @@
 # UCS761 – Deep Learning Lab Assignments
 
 **Student Name:** Lavanya Garg
+
 **Roll Number:** 102313066
+
 **Group:** 3C33
 
 ---
