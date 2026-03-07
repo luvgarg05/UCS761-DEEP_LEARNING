@@ -109,6 +109,7 @@ The assignments are implemented using the following tools:
 * NumPy
 * Pandas
 * Matplotlib
+* TensorFlow / Keras
 
 ---
 
