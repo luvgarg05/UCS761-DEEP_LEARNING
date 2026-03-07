@@ -132,4 +132,5 @@ DEEP_LEARNING
 ## Course Information
 
 **Course Code:** UCS761
+
 **Course Title:** Deep Learning Laboratory
